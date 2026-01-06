@@ -1,0 +1,6 @@
+# Application
+APP_ENV=development
+LOG_LEVEL=INFO
+
+# Cloud Providers (Future)
+AWS_REGION=us-east-1
